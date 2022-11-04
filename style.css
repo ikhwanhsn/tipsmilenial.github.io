@@ -1,0 +1,17 @@
+body {
+  background-image: url(background.webp);
+}
+
+#profil {
+  width: 180px;
+  margin-top: 20px;
+}
+
+#tombol {
+  margin-top: -35px;
+}
+
+#link-medsos {
+  width: 500px;
+  display: inline-block;
+}
